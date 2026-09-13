@@ -1,0 +1,6 @@
+{
+  "name": "AI Mart Sales Agent",
+  "description": "ប្រព័ន្ធភ្នាក់ងារ AI ឆ្លាតវៃសម្រាប់ជួយលក់ទំនិញ ណែនាំផលិតផល និងគិតលុយក្នុងម៉ាត (Smart Convenience Mart AI Sales & POS Assistant)",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
